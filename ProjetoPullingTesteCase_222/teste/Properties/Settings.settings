@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="teste.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ProxyActive" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="ProxyAddress" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://172.16.0.6:8080</Value>
+    </Setting>
+    <Setting Name="ProxyUser" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">inf-dietersantos</Value>
+    </Setting>
+    <Setting Name="ProxyPass" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">r353t3282</Value>
+    </Setting>
+    <Setting Name="PersonalAccessToken" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">cndcp3jit4reohyqpvw7sqp7756lkvc6dvght35cop637oiox7va</Value>
+    </Setting>
+    <Setting Name="Organization" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">diones</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

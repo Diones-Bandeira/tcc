@@ -1,0 +1,42 @@
+C:\WorkGB\GBDotNet\teste\teste\bin\teste.dll.config
+C:\WorkGB\GBDotNet\teste\teste\bin\teste.dll
+C:\WorkGB\GBDotNet\teste\teste\bin\teste.pdb
+C:\WorkGB\GBDotNet\teste\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\WorkGB\GBDotNet\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\WorkGB\GBDotNet\teste\teste\obj\Debug\teste.dll
+C:\WorkGB\GBDotNet\teste\teste\obj\Debug\teste.pdb
+C:\tmp\teste\teste\bin\teste.dll.config
+C:\tmp\teste\teste\bin\teste.dll
+C:\tmp\teste\teste\bin\teste.pdb
+C:\tmp\teste\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\tmp\teste\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\tmp\teste\teste\obj\Debug\teste.dll
+C:\tmp\teste\teste\obj\Debug\teste.pdb
+C:\Users\Dieter Marno\Documents\Visual Studio 2013\Projects\teste\teste\bin\teste.dll.config
+C:\Users\Dieter Marno\Documents\Visual Studio 2013\Projects\teste\teste\bin\teste.dll
+C:\Users\Dieter Marno\Documents\Visual Studio 2013\Projects\teste\teste\bin\teste.pdb
+C:\Users\Dieter Marno\Documents\Visual Studio 2013\Projects\teste\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\Dieter Marno\Documents\Visual Studio 2013\Projects\teste\teste\obj\Debug\teste.dll
+C:\Users\Dieter Marno\Documents\Visual Studio 2013\Projects\teste\teste\obj\Debug\teste.pdb
+C:\tmp\ProjetoPullingTesteCase\teste\bin\teste.dll.config
+C:\tmp\ProjetoPullingTesteCase\teste\bin\teste.dll
+C:\tmp\ProjetoPullingTesteCase\teste\bin\teste.pdb
+C:\tmp\ProjetoPullingTesteCase\teste\obj\Debug\teste.csprojAssemblyReference.cache
+C:\tmp\ProjetoPullingTesteCase\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\tmp\ProjetoPullingTesteCase\teste\obj\Debug\teste.dll
+C:\tmp\ProjetoPullingTesteCase\teste\obj\Debug\teste.pdb
+C:\Users\Diones Bandeira\Desktop\ProjetoPullingTesteCase\teste\bin\teste.dll.config
+C:\Users\Diones Bandeira\Desktop\ProjetoPullingTesteCase\teste\bin\teste.dll
+C:\Users\Diones Bandeira\Desktop\ProjetoPullingTesteCase\teste\bin\teste.pdb
+C:\Users\Diones Bandeira\Desktop\ProjetoPullingTesteCase\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\Diones Bandeira\Desktop\ProjetoPullingTesteCase\teste\obj\Debug\teste.dll
+C:\Users\Diones Bandeira\Desktop\ProjetoPullingTesteCase\teste\obj\Debug\teste.pdb
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\bin\teste.dll.config
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\bin\teste.dll
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\bin\teste.pdb
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\obj\Debug\teste.csprojResolveAssemblyReference.cache
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\obj\Debug\teste.csproj.CoreCompileInputs.cache
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\obj\Debug\teste.dll
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\obj\Debug\teste.pdb
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\bin\Newtonsoft.Json.dll
+C:\Users\tches\Documents\Visual Studio 2017\Projects\ProjetoPullingTesteCase_222\teste\bin\Newtonsoft.Json.xml
